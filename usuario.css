@@ -1,0 +1,49 @@
+.lista{
+    margin-left: 200px;
+}
+.boton{
+    margin-right: 10px;
+}
+.col1{
+    font-weight: 400;
+    font-size: large;
+    padding-top: 150px;
+    text-align: center;
+    font-style: oblique;
+}
+.col2{
+    padding-top: 80px;
+}
+.col3{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.container{
+    text-align: center;
+}
+.tarjeta{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.col1footer{
+    padding-left: 200px;
+    background-color: #343a40;
+    text-align: center;
+    color: azure;
+    font-style: oblique;
+    font-size: smaller;
+    font-weight: 600;
+}
+.col2footer{
+    background-color: #343a40;
+    text-align: center;
+    color: azure;
+    font-style: oblique;
+    font-size: smaller;
+    font-weight: 600;
+}
+.col3footer{
+    background-color: #343a40;
+}
